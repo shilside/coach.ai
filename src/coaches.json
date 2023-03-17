@@ -1,0 +1,36 @@
+{
+  "coaches": [
+    {
+      "name": "Pep Guardiola",
+      "age": "52",
+      "currentTeam": "Manchester City",
+      "city-nationality": "Santpedor, Spain",
+      "achievements": "3x La Liga champion, 2x Copa del Rey champion, 7x Bundesliga champion, 4x DFB-Pokal champion, 3x Premier League champion, 2x EFL Cup champion, 1x FA Cup champion, 1x UEFA Champions League champion, 1x FIFA Club World Cup champion, 2x UEFA Super Cup champion",
+      "managerRating": "9.5"
+    },
+    {
+      "name": "Mikel Arteta",
+      "age": "39",
+      "currentTeam": "Arsenal",
+      "city-nationality": "Barakaldo, Spain",
+      "achievements": "2x Copa del Rey champion, 1x Spanish Super Cup champion, 2x UEFA Super Cup champion",
+      "managerRating": "8"
+    },
+    {
+      "name": "Jose Mourinho",
+      "age": "58",
+      "currentTeam": "Tottenham Hotspur",
+      "city-nationality": "Setubal, Portugal",
+      "achievements": "3x Premier League champion, 2x EFL Cup champion, 1x FA Cup champion, 2x UEFA Champions League champion",
+      "managerRating": "9"
+    },
+    {
+      "name": "Zinedine Zidane",
+      "age": "48",
+      "currentTeam": "Real Madrid",
+      "city-nationality": "Marseille, France",
+      "achievements": "3x La Liga champion, 2x Copa del Rey champion, 3x UEFA Champions League champion",
+      "managerRating": "8.5"
+    }
+  ]
+}
